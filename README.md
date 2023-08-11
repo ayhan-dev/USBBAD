@@ -1,7 +1,7 @@
 # USBBAD 
 
 
-```Guide made by myself```
+```Guide made by myself.```
 
  
 ### Directory<br>
